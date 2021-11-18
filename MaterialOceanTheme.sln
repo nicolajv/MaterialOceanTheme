@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MaterialOceanTheme", "MaterialOceanTheme\MaterialOceanTheme.vbproj", "{31E44821-FA23-49E8-BFF4-2EF637FE03E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E44821-FA23-49E8-BFF4-2EF637FE03E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E44821-FA23-49E8-BFF4-2EF637FE03E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E44821-FA23-49E8-BFF4-2EF637FE03E5}.Debug|x86.ActiveCfg = Debug|x86
+		{31E44821-FA23-49E8-BFF4-2EF637FE03E5}.Debug|x86.Build.0 = Debug|x86
+		{31E44821-FA23-49E8-BFF4-2EF637FE03E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E44821-FA23-49E8-BFF4-2EF637FE03E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E44821-FA23-49E8-BFF4-2EF637FE03E5}.Release|x86.ActiveCfg = Release|x86
+		{31E44821-FA23-49E8-BFF4-2EF637FE03E5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE5B716-98F9-4F5F-9C95-B2D9AA635DF2}
+	EndGlobalSection
+EndGlobal
